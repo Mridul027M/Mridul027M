@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software engineering student and a learning enthusiast who
+believes that learning means growth. I believe in team work where I
+can help others learn and in return learn from them. I have done Full
+Stack development and I am passionate about it.
